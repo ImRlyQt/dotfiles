@@ -1,5 +1,5 @@
 show=drun
-width=450
+width=400
 height=400
 always_parse_args=true
 show_all=false
@@ -9,3 +9,5 @@ print_command=true
 insensitive=true
 prompt=
 columns=1
+y=154
+x=483

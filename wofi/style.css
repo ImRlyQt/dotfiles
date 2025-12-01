@@ -1,15 +1,15 @@
 * {
     font-family: "JetBrainsMono Nerd Font", "NotoSansMono Nerd Font", "Font Awesome 6 Brands", "JetBrains Mono", "Fira Code", "Inconsolata", "Noto Sans", monospace;
-    color: rgba(53, 185, 171, 1);
+    color: rgba(203, 30, 209, 1);
     background: transparent;
 }
   
 #window {
-    background: rgba(41, 46, 66, 0.5);
+    background: rgba(41, 46, 66, 0.9);
     margin: auto;
     padding: 10px;
     border-radius: 0px;
-    border: 0.5px solid #33ccff;
+    border: 1px solid #33ccff;
 }
 
 #input {
