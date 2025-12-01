@@ -1,6 +1,6 @@
 show=drun
 width=400
-height=400
+height=200
 always_parse_args=true
 show_all=false
 term=kitty
@@ -9,5 +9,3 @@ print_command=true
 insensitive=true
 prompt=
 columns=1
-y=154
-x=483
