@@ -7,5 +7,6 @@ term=kitty
 hide_scroll=true
 print_command=true
 insensitive=true
+location=center
 prompt=
 columns=1
