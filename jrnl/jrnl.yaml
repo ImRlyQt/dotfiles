@@ -1,0 +1,19 @@
+colors:
+  body: none
+  date: magenta
+  tags: yellow
+  title: cyan
+default_hour: 9
+default_minute: 0
+editor: 'vim'
+encrypt: false
+highlight: true
+indent_character: '|'
+journals:
+  default:
+    journal: /home/imrlyqt/jurnal/journal.txt
+linewrap: 79
+tagsymbols: '#@'
+template: false
+timeformat: '%F %r'
+version: v4.2.1
